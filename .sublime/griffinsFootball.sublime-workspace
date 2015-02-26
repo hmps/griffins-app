@@ -1,0 +1,2856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ta",
+				"ta-l	text-align: left;"
+			],
+			[
+				"acit",
+				"activateCustomScrollbars()"
+			],
+			[
+				"con",
+				"constructor	@constructor"
+			],
+			[
+				"bowe",
+				"bower_components/"
+			],
+			[
+				"ov",
+				"ovx	overflow-x: ${1:hidden};"
+			],
+			[
+				"aut",
+				"author	@author"
+			],
+			[
+				"ng",
+				"ng.module	ng.module"
+			],
+			[
+				"$tran",
+				"$translateProvider	(?)"
+			],
+			[
+				"$win",
+				"$winScrollTop"
+			],
+			[
+				"$timeou",
+				"verbose_$timeout	AngularJS"
+			],
+			[
+				"getTe",
+				"getTemplate(name, cb)"
+			],
+			[
+				"req",
+				"requires	@requires"
+			],
+			[
+				"m",
+				"module	@module"
+			],
+			[
+				"button",
+				"_button-groups.scss"
+			],
+			[
+				"getVisits",
+				"getVisits(_data)"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"account",
+				"accountPromise	(?)"
+			],
+			[
+				"dashb",
+				"dashboardController"
+			],
+			[
+				"chart",
+				"chartOptions	{}"
+			],
+			[
+				"company",
+				"companytags	[]"
+			],
+			[
+				"$location",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"ret",
+				"returns	@returns"
+			],
+			[
+				"tbf",
+				"tbfn	toBeFunction"
+			],
+			[
+				"sub",
+				"subTemplateUrl	(?)"
+			],
+			[
+				"widget",
+				"widgetTypesService	(?)"
+			],
+			[
+				"udpate",
+				"updateWidgetOptions"
+			],
+			[
+				"show",
+				"showmycompanies"
+			],
+			[
+				"sho",
+				"showmycompanies"
+			],
+			[
+				"rangeIn",
+				"rangeInLastName	(?)"
+			],
+			[
+				"rang",
+				"rangeInLastName	(?)"
+			],
+			[
+				"widge",
+				"widgetCount	{}"
+			],
+			[
+				"wid",
+				"widgetTypesService	(?)"
+			],
+			[
+				"form",
+				"formmodule	(?)"
+			],
+			[
+				"access",
+				"accessNeeded	{}"
+			],
+			[
+				"greeting",
+				"greetingFactory	(?)"
+			],
+			[
+				"getTime",
+				"getTimelyGreeting(date)"
+			],
+			[
+				"data",
+				"dataToPrepare	(?)"
+			],
+			[
+				"connte",
+				"contentType"
+			],
+			[
+				"json",
+				"jsonMessage"
+			],
+			[
+				"enco",
+				"encodePostAsForm()"
+			],
+			[
+				"e",
+				"eq	.eq()"
+			],
+			[
+				"la",
+				"languageid"
+			],
+			[
+				"getTI",
+				"getItemFromSession	(?)"
+			],
+			[
+				"local",
+				"localWidget	(?)"
+			],
+			[
+				"getWid",
+				"getWidgetData"
+			],
+			[
+				"getAll",
+				"getAllowedViews(t)"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"o",
+				"off	.off()"
+			],
+			[
+				"widgetC",
+				"widgetsCache"
+			],
+			[
+				"module",
+				"verbose_module	AngularJS"
+			],
+			[
+				"peDa",
+				"peDataType"
+			],
+			[
+				"test",
+				"testScroll"
+			],
+			[
+				"factory",
+				"factory	AngularJS"
+			],
+			[
+				"Pros",
+				"ProspectEye_directives	AngularJS"
+			],
+			[
+				"mod",
+				"verbose_module	AngularJS"
+			],
+			[
+				"lis",
+				"listState"
+			],
+			[
+				"togg",
+				"toggleContactFilter"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"stop",
+				"stopWait"
+			],
+			[
+				"out",
+				"outputWait"
+			],
+			[
+				"handl",
+				"Handlebars"
+			],
+			[
+				"getComp",
+				"getCompiledHandlebar"
+			],
+			[
+				"prevent",
+				"preventScroll"
+			],
+			[
+				"scrollbar",
+				"scrollbarWidth"
+			],
+			[
+				"firt",
+				"firstChild"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"getRe",
+				"getResultByType"
+			],
+			[
+				"referer",
+				"refererurl"
+			],
+			[
+				"pedataty",
+				"pedatatype"
+			],
+			[
+				"conver",
+				"conversiontype"
+			],
+			[
+				"showAl",
+				"showAllContacts"
+			],
+			[
+				"ac",
+				"activeCompany"
+			],
+			[
+				"aci",
+				"activePerson"
+			],
+			[
+				"Float",
+				"FloatingLabelView"
+			],
+			[
+				"Highc",
+				"highcharts"
+			],
+			[
+				"activate",
+				"activateTipTips"
+			],
+			[
+				"acti",
+				"activateTipTips"
+			],
+			[
+				"dict",
+				"dictionary"
+			],
+			[
+				"top",
+				"topContacts"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"Flo",
+				"_FloatingFilters.scss"
+			],
+			[
+				"second",
+				"secondDegree"
+			],
+			[
+				"firs",
+				"firstDegree"
+			],
+			[
+				"bx",
+				"bxz-bb	box-sizing: border-box;"
+			],
+			[
+				"bb",
+				"bxz-bb	box-sizing: border-box;"
+			],
+			[
+				"settin",
+				"settingsArray"
+			],
+			[
+				"person",
+				"personemail"
+			],
+			[
+				"nth",
+				"nth-of-type"
+			],
+			[
+				"refere",
+				"refererurl"
+			],
+			[
+				"parse",
+				"parseWebaddress"
+			],
+			[
+				"register",
+				"registerPartialTemplates"
+			],
+			[
+				"format",
+				"formatLinkedInImage"
+			],
+			[
+				"dra",
+				"drawInterval"
+			],
+			[
+				"myc",
+				"mycontacts"
+			],
+			[
+				"render",
+				"renderTemplate"
+			],
+			[
+				"rendered",
+				"renderedTemplate"
+			],
+			[
+				"sa",
+				"SafeString"
+			],
+			[
+				"las",
+				"lastMonth"
+			],
+			[
+				"last",
+				"lastDayOfMonth"
+			],
+			[
+				"Compone",
+				"ProspectEye.Components.Calendar"
+			],
+			[
+				"pe-icon-s",
+				"pe-icon-star-empty"
+			],
+			[
+				"LastSe",
+				"lastSeenVisit"
+			],
+			[
+				"lastS",
+				"lastSeenVisit"
+			],
+			[
+				"Dropd",
+				"Dropdown-wrapper"
+			],
+			[
+				"formatDate",
+				"formatDateString"
+			],
+			[
+				"get_br",
+				"get_browser_version"
+			],
+			[
+				"Contact",
+				"ContactListItem"
+			],
+			[
+				"colleagues",
+				"data.colleaguescontacts"
+			],
+			[
+				"myconta",
+				"data.mycontacts.more"
+			],
+			[
+				"fileN",
+				"file_name"
+			],
+			[
+				"convers",
+				"conversionformname"
+			],
+			[
+				"selec",
+				"selectedSiteId"
+			],
+			[
+				"before",
+				"beforeRender"
+			],
+			[
+				"Ut",
+				"ProspectEye.Utilities.Helpers"
+			],
+			[
+				"submit",
+				"submitComment"
+			],
+			[
+				"GETDATAFOR",
+				"GETDATAFORCOMPANY"
+			],
+			[
+				"compan",
+				"companyId"
+			],
+			[
+				"comp",
+				"companyId"
+			],
+			[
+				"reset",
+				"resetListPosition"
+			],
+			[
+				"sloa",
+				"slackError"
+			],
+			[
+				"erro",
+				"errorObj"
+			],
+			[
+				"pixel",
+				"pixelsFromWindowBottomToBottom"
+			],
+			[
+				"testRel",
+				"testRelationTitle"
+			],
+			[
+				"typ",
+				"typeAhead"
+			],
+			[
+				"$list",
+				"$listItems"
+			],
+			[
+				"compile",
+				"compiledTemplate"
+			],
+			[
+				"fetch",
+				"fetchHelpModal"
+			],
+			[
+				"max",
+				"maxHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/menu.html",
+			"settings":
+			{
+				"buffer_size": 896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 1834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/player.html",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/team.html",
+			"settings":
+			{
+				"buffer_size": 719,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Node.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"dul",
+				"File: Duplicate"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"reindet",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"checkt",
+				"Git: Checkout Current File"
+			],
+			[
+				"pastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"confli",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"conflic",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"gitt af",
+				"Git: Add Current File"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"commit",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"delete",
+				"Delete Remote File"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"sortl",
+				"Sort Lines"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"convert c",
+				"Convert Case: Lower Case"
+			],
+			[
+				"apac",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"git log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"conflict",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"handleb",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"git con",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"sytnax te",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"SQLExec: List connections"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"srot",
+				"Sort Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"revel",
+				"File: Reveal"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"add file",
+				"Git: Add Current File"
+			],
+			[
+				"quick add",
+				"Git: Quick Add"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"checo",
+				"Git: Checkout Current File"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"pasrty",
+				"Text Pastry: Command Line"
+			],
+			[
+				"pa",
+				"Text Pastry: Command Line"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"duli",
+				"File: Duplicate"
+			],
+			[
+				"checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"todorev",
+				"TodoReview: Project Files"
+			],
+			[
+				"todorw",
+				"TodoReview: Project Files"
+			],
+			[
+				"show",
+				"Git: Show"
+			],
+			[
+				"move ",
+				"File: Move"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"jasmin",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"quick ad",
+				"Git: Quick Add"
+			],
+			[
+				"git ",
+				"Git: Quick Add"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sur",
+				"Surround: surround selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"preset comman",
+				"Preset Command: List Presets"
+			],
+			[
+				"surr",
+				"Surround: surround selection"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"TODO",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"rodo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"surroun",
+				"Surround: surround selection"
+			],
+			[
+				"quo",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimer",
+				"Sublimerge"
+			],
+			[
+				"sytntext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"clear",
+				"Mark And Move: Clear"
+			],
+			[
+				"change",
+				"Surround: change surround"
+			],
+			[
+				"changesu",
+				"Surround: change surround"
+			],
+			[
+				"surron",
+				"Surround: surround selection"
+			],
+			[
+				"surround",
+				"Surround: surround selection"
+			],
+			[
+				"mark",
+				"Mark And Move: Recall"
+			],
+			[
+				"marks",
+				"Mark And Move: Save"
+			],
+			[
+				"paste",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"text",
+				"Text Pastry: Command Line"
+			],
+			[
+				"text past",
+				"Text Pastry: Settings"
+			],
+			[
+				"trans",
+				"Transpose Character"
+			],
+			[
+				"move te",
+				"MoveText: Move Up"
+			],
+			[
+				"increm",
+				"Increment Selection"
+			],
+			[
+				"lsit",
+				"Package Control: List Packages"
+			],
+			[
+				"list pre",
+				"Preset Command: List Presets"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 236.0,
+		"history":
+		[
+			"clear",
+			"clear()",
+			"view.__vi_external_disable: true",
+			"view.__vi_external_disable = true",
+			"view",
+			"__vi_external_disable: true",
+			"print('hampus')",
+			"print()",
+			"print \"hampus\" ",
+			"print",
+			"print 'hampus'",
+			"console.log('hampsu')",
+			"window.show_quick_panel('hampus', None, sublime.MONOSPACE_FONT)",
+			"print view",
+			"view",
+			"view.PlainTasksOpenLinkCommand",
+			"import os; os.getenv('PATH')",
+			"gulp",
+			"view.set_status('hampus', '');",
+			"git branch;",
+			"git branch -v;",
+			"git branch",
+			"view.set_status('hampus', 'snygg');",
+			"view.set_status('hampus', snygg);",
+			"view.set_status(hampus, snygg);",
+			"view.set_status(hampus: 'snygg');",
+			"view.set_status('Hampus');",
+			"log",
+			"console.log(view)",
+			"view.status",
+			"view.get_status()",
+			"view",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/Users/HPE/Sites/hmps/griffinsFootball",
+		"/Users/HPE/Sites/hmps/griffinsFootball/scss",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/js"
+	],
+	"file_history":
+	[
+		"/Users/HPE/Sites/prospecteye/languages/sv.json",
+		"/Users/HPE/Sites/hmps/griffinsFootball/plugins/com.ionic.keyboard/plugin.xml",
+		"/Users/HPE/Sites/hmps/griffinsFootball/package.json",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/index.html",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/templates/player.html",
+		"/Users/HPE/Sites/hmps/griffinsFootball/gulpfile.js",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/templates/home.html",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/templates/browse.html",
+		"/Users/HPE/Sites/hmps/griffinsFootball/hooks/after_prepare/010_add_platform_class.js",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/lib/ionic/scss/ionicons/_ionicons-icons.scss",
+		"/Users/HPE/Sites/hmps/griffinsFootball/platforms/ios/cordova/lib/install-device",
+		"/Users/HPE/Sites/hmps/griffinsFootball/ionic.project",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/templates/schedule.html",
+		"/Users/HPE/Sites/hmps/griffinsFootball/www/lib/ionic/scss/_action-sheet.scss",
+		"/Users/HPE/Sites/hmps/griffinsFootball/platforms/ios/cordova/lib/list-devices",
+		"/Users/HPE/Sites/hmps/griffinsFootball/platforms/ios/cordova/lib/list-started-emulators",
+		"/Users/HPE/Sites/hmps/griffinsFootball/platforms/ios/cordova/lib/list-emulator-images",
+		"/Users/HPE/Sites/hmps/griffinsFootball/plugins/com.ionic.keyboard/LICENSE",
+		"/Users/HPE/Sites/hmps/griffinsFootball/scss/ionic.app.scss",
+		"/Users/HPE/Sites/hmps/griffinsFootball/bower.json",
+		"/Users/HPE/Sites/hmps/griffinsFootball/.bowerrc",
+		"/Users/HPE/Sites/apsis/frontend/examples/filter-list/data/MOCK_DATA.json",
+		"/Users/HPE/Sites/apsis/frontend/examples/filter-list/index.html",
+		"/Users/HPE/Sites/apsis/frontend/examples/timeline/entry.js",
+		"/Users/HPE/Sites/apsis/frontend/examples/index.html",
+		"/Users/HPE/Sites/apsis/frontend/gulp/test.js",
+		"/Users/HPE/Sites/apsis/frontend/examples/timeline/bundle.js",
+		"/Users/HPE/Sites/apsis/frontend/package.json",
+		"/Users/HPE/Sites/apsis/frontend/bower.json",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/_variables.scss",
+		"/Users/HPE/.zshrc",
+		"/Users/HPE/Sites/apsis/frontend/modules/tooltip/stylesheets/tooltip.scss",
+		"/Users/HPE/Sites/apsis/frontend/modules/tooltip/js/tooltip.js",
+		"/Users/HPE/Sites/apsis/angular-example/mockdata/mock-data-10k-packad.json",
+		"/Users/HPE/Sites/apsis/frontend/modules/packa/packa.js",
+		"/Users/HPE/Sites/prospecteye/.htaccess",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/mixins/_tab-focus.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/mixins/_hide-text.scss",
+		"/Users/HPE/Sites/apsis/frontend/tests/lib/helpers.js",
+		"/Users/HPE/Sites/apsis/frontend/modules/timeline/images/icon-reminder.svg",
+		"/Users/HPE/Sites/apsis/frontend/modules/filter-select/filter-select.js",
+		"/Users/HPE/Sites/apsis/frontend/modules/timeline/images/icon-event.svg",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/tools/_mixins.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/tools/_functions.scss",
+		"/Users/HPE/Sites/prospecteye/public/styles/scss/app/visitlist.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/settings/_colors.scss",
+		"/Users/HPE/Sites/prospecteye/public/styles/scss/tools/_mixins.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/_mixins.scss",
+		"/Users/HPE/Sites/apsis/frontend/examples/tooltip/stylesheets/tooltip.css",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/settings/_z-index.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/settings/_variables.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/_buttons.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/mixins/_clearfix.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/mixins/_center-block.scss",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/mixins/_text-overflow.scss",
+		"/Users/HPE/zshrc",
+		"/Users/HPE/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/HPE/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/HPE/Sites/apsis/frontend/0003-Update-documentation-for-timeline.js.patch",
+		"/Users/HPE/Sites/apsis/frontend/0002-add-entry-and-exit-animation-for-timeline-items.patch",
+		"/Users/HPE/Sites/apsis/frontend/0001-reroute-server-tdd-process-to-root-page.patch",
+		"/Users/HPE/Sites/apsis/frontend/.gitignore",
+		"/Users/HPE/Sites/apsis/frontend/modules/timeline/stylesheets/timeline.scss",
+		"/Users/HPE/Sites/apsis/frontend/examples/timeline/index.html",
+		"/Users/HPE/Sites/apsis/frontend/modules/timeline/js/timeline.js",
+		"/Users/HPE/Sites/apsis/frontend/tests/unit/timeline.spec.js",
+		"/Users/HPE/Sites/apsis/frontend/gulp/server.js",
+		"/Users/HPE/Sites/apsis/angular-modules/split-view/gulp/server.js",
+		"/Users/HPE/Sites/apsis/scaffold/.gitignore",
+		"/Users/HPE/Sites/apsis/frontend/gulp/wiredep.js",
+		"/Users/HPE/Sites/apsis/frontend/gulp/watch.js",
+		"/Users/HPE/Sites/apsis/angular-example/index.html",
+		"/Users/HPE/Library/Caches/Cleanup At Startup/Transmit/6B3FCA03-99D2-441B-8734-F2E84C36559A/style.css",
+		"/Users/HPE/Sites/apsis/frontend/tests/unit/klister.spec.js",
+		"/Users/HPE/Sites/apsis/frontend/tests/unit/filter-select.spec.js",
+		"/Users/HPE/Sites/apsis/frontend/tests/karma-unit.conf.js",
+		"/Users/HPE/Sites/apsis/frontend/modules/klister/klister.js",
+		"/Users/HPE/Sites/apsis/frontend/examples/timeline/stylesheets/timeline.css",
+		"/Users/HPE/Sites/apsis/frontend/examples/timeline/stylesheets/timeline.css.map",
+		"/Users/HPE/Sites/apsis/frontend/examples/timeline/images/email.svg",
+		"/Users/HPE/Library/Application Support/Sublime Text 3/Packages/User/umd.sublime-snippet",
+		"/Users/HPE/Sites/apsis/frontend/gulpfile.js",
+		"/Users/HPE/Sites/apsis/frontend/gulp/styles.js",
+		"/Users/HPE/Sites/apsis/frontend/gulp/scripts.js",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/mixins/_text-emphasis.scss",
+		"/Users/HPE/Sites/apsis/frontend/modules/dropdown/dropdown.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/karma-osx-reporter/index.js",
+		"/Users/HPE/Sites/prospecteye/public/styles/molecules/_Quickstats.scss",
+		"/Users/HPE/Sites/prospecteye/public/styles/molecules/_Modal.scss",
+		"/Users/HPE/Sites/apsis/frontend/tests/karma-e2e.conf.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/node_modules/jscs/lib/rules/disallow-capitalized-comments.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/node_modules/jscs/lib/rules/maximum-line-length.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/node_modules/jscs/lib/rules/disallow-anonymous-functions.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/node_modules/jscs/lib/config/node-configuration.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/node_modules/jscs/lib/config/configuration.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/node_modules/jscs/lib/checker.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/node_modules/jscs/package.json",
+		"/Users/HPE/Sites/prospecteye/gulp/watch.js",
+		"/Users/HPE/Sites/prospecteye/gulp/styles.js",
+		"/Users/HPE/Sites/prospecteye/gulp/server.js",
+		"/Users/HPE/Sites/apsis/frontend/stylesheets/shared/mixins/_border-radius.scss",
+		"/Users/HPE/Sites/apsis/frontend/modules/cartero/cartero.js",
+		"/Users/HPE/Sites/apsis/frontend/modules/polyfills/polyfills.js",
+		"/Users/HPE/Sites/apsis/frontend/modules/cartero/cartero.es6.js",
+		"/Users/HPE/Sites/apsis/frontend/node_modules/gulp-jscs/index.js",
+		"/Users/HPE/Sites/apsis/frontend/.jscs.json",
+		"/Users/HPE/Sites/apsis/frontend/.jshintrc",
+		"/Users/HPE/Sites/apsis/frontend/tests/unit/cartero.spec.js",
+		"/Users/HPE/Sites/apsis/frontend/examples/timeline/images/followup.svg",
+		"/Users/HPE/Sites/apsis/frontend/.sublime/frontend.sublime-project",
+		"/Users/HPE/Sites/apsis/frontend/modules/timeline/js/script.js",
+		"/Users/HPE/Sites/apsis/frontend/example/timeline/index.html",
+		"/Users/HPE/Library/Application Support/Sublime Text 3/Packages/JavaScript/angular.controller.sublime-snippet",
+		"/Users/HPE/Sites/temp/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/index.js",
+		"/Users/HPE/Sites/temp/node_modules/gulp/node_modules/vinyl-fs/lib/src/index.js",
+		"/Users/HPE/Sites/apsis/gitlab/setup.sh",
+		"/Users/HPE/.ssh/prospecteye/id_rsa",
+		"/Users/HPE/Sites/apsis/frontend/dependecies/jquery.min.js",
+		"/Users/HPE/.ssh/config",
+		"/Users/HPE/Sites/apsis/frontend/README.md",
+		"/Applications/Vagrant/embedded/gems/specifications/vagrant-1.6.2.gemspec",
+		"/Users/HPE/Applications/Vagrant/embedded/gems/specifications/vagrant-1.6.2.gemspec",
+		"/Users/HPE/Sites/vagrant/Vagrantfile",
+		"/Users/HPE/Sites/prospecteye/public/styles/molecules/_VerticalMenu.scss",
+		"/Users/HPE/Sites/prospecteye/public/scripts/app.template.html",
+		"/Users/HPE/Sites/prospecteye/public/scripts/pages/filters/filters.module.js",
+		"/Users/HPE/Sites/prospecteye/public/scripts/pages/filters/filters.template.html",
+		"/Users/HPE/Sites/prospecteye/public/scripts/pages/filters/filters.create.partial.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/HPE/Sites/apsis/frontend,*.js",
+			"/Users/HPE/Sites/apsis/frontend/modules,*.js",
+			"/Users/HPE/Sites/prospecteye/public/scripts/,*.html",
+			"/Users/HPE/Sites/prospecteye/public/scripts/,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app",
+			"/Users/HPE/Sites/prospecteye/dashboard/app*.js",
+			"/Users/HPE/Sites/prospecteye/public,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app,*.html",
+			"/Users/HPE/Sites/prospecteye/dashboard/app,*.js",
+			"/Users/HPE/Sites/prospecteye/public,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app,*.scss",
+			"/Users/HPE/Sites/prospecteye/public,*.scss",
+			"/Users/HPE/Sites/prospecteye/public,*.js",
+			"/Users/HPE/Sites/prospecteye/,*.js",
+			"/Users/HPE/Sites/prospecteye/,*.php",
+			"/Users/HPE/Sites/prospecteye/public, *.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/scripts, *.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/scripts,*.js",
+			"/Users/HPE/Sites/prospecteye/public/styles/scss,*.scss",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/scripts,*.js",
+			"/Users/HPE/Sites/prospecteye/public/scripts,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/test,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/scripts,*.html",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/scripts,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/scripts,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/,*.js",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/styles,*.scss",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/styles/scss,*.scss",
+			"/Users/HPE/Sites/prospecteye/public/styles/scss",
+			"/Users/HPE/Sites/prospecteye/public/styles/**/*.scss",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/dashboard/app/scripts",
+			"/Users/HPE/Sites/prospecteye/dahsboard/app/scripts",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/public/script",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/public/",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/public/",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/styles/scss",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/testing",
+			"/Users/HPE/Sites/prospecteye/public/styles",
+			"/Users/HPE/Sites/prospecteye/info",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/inc",
+			"/Users/HPE/Sites/prospecteye/public",
+			"/Users/HPE/Sites/prospecteye/inc",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/public/scrips",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/public/",
+			"/Users/HPE/Sites/prospecteye/public/templates",
+			"/Users/HPE/Sites/prospecteye/public/scripts",
+			"/Users/HPE/Sites/prospecteye/assets/scripts",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/assets/scripts",
+			"/Users/HPE/Sites/prospecteye/testing",
+			"/Users/HPE/Sites/prospecteye/assets/scripts",
+			"/Users/HPE/Sites/prospecteye/templates",
+			"/Users/HPE/Sites/prospecteye/assets/scripts",
+			"/Users/HPE/Sites/prospecteye/assets/styles",
+			"/Users/HPE/Sites/prospecteye/inc",
+			"/Users/HPE/Sites/prospecteye/templates",
+			"/Users/HPE/Sites/prospecteye/testing,-*.html",
+			"/Users/HPE/Sites/prospecteye/testing",
+			"/Users/HPE/Sites/prospecteye/templates",
+			"/Users/HPE/Sites/prospecteye/inc/scripts",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/inc/",
+			"/Users/HPE/Sites/prospecteye/inc/scripts/",
+			"/Users/HPE/Sites/prospecteye/inc",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/inc/",
+			"/Users/HPE/Sites/prospecteye/inc/styles",
+			"/Users/HPE/Sites/prospecteye/",
+			"/Users/HPE/Sites/prospecteye/info",
+			"/Users/HPE/Documents/prospecteye/info",
+			"/Users/HPE/Documents/prospecteye"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":",
+			"Second",
+			"arrow-righ",
+			"browse",
+			"search",
+			"Browse",
+			"\"",
+			"jQuery",
+			"\"",
+			"bower",
+			".log",
+			"reminder",
+			"add",
+			"#loginoverlayEx",
+			"<li",
+			"\"",
+			":",
+			"],[",
+			"], [",
+			", ",
+			"themeforest.net",
+			"spotify.com",
+			"ucoz.ru",
+			"infoseek.co.jp",
+			"vimeo.com",
+			"latimes.com",
+			"spotify.com",
+			"date",
+			"email",
+			"id",
+			"}",
+			"{",
+			"\"date\":",
+			"\"email\":",
+			"\"id\":",
+			"#",
+			"#fafafa",
+			"#ccc",
+			"$c-black, 400",
+			"$blue",
+			"$dark-grey",
+			"$yellow",
+			"$green",
+			"￼",
+			", ",
+			"￼",
+			", ",
+			"  ",
+			"￼",
+			"fff",
+			"OVERFLOW",
+			"unhover",
+			"removeTooltip",
+			"removeTooltipWhenHidden",
+			"timeline",
+			".each",
+			"tooltip",
+			".TimeLine-badge",
+			"setTimeout",
+			".log",
+			"$el",
+			"\"",
+			"h1",
+			"$scroll",
+			"$el",
+			"''",
+			"$",
+			"ctrl+space",
+			"e",
+			"type",
+			"\"",
+			"time ",
+			"nov",
+			"mar",
+			",,",
+			"icon-",
+			":after",
+			"click",
+			"fwd",
+			"helpers",
+			"\"",
+			"cancelEvents",
+			"setupEvents",
+			"deleteEvent",
+			"insertEvent",
+			"$gotoEl",
+			"isVisis",
+			"_elements.$lastVisibleEl",
+			"$lastVisibleEl",
+			"$el",
+			"2014",
+			"64px",
+			".log",
+			"height",
+			"$content",
+			"content",
+			"timeline",
+			"left",
+			"creation",
+			"calendar",
+			"invitation",
+			"                        ",
+			"\"",
+			"days",
+			"failChange",
+			"false",
+			"always",
+			".log",
+			"lint",
+			"Object.keys",
+			"jshint",
+			"if (",
+			"\"",
+			"yoda",
+			"requireOperatorBeforeLineBreak",
+			"requireSpaceAfterObjectKeys",
+			"newline",
+			"block",
+			"requireSpaceBefore",
+			"\"",
+			"forward",
+			"fwd",
+			"forward",
+			"_optiosn",
+			"hello",
+			"network",
+			"VisitDetails",
+			"activate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"],[",
+			"/public/",
+			"shareRecipient",
+			"//(function() {",
+			"Apsis.services",
+			"Apsis.filters",
+			"Apsis.modules",
+			"nth($c-blues, 3)",
+			" nth($c-blues, 3)",
+			"#f65f27",
+			"nth($c-whites, 2)",
+			"$c-white",
+			"nth($c-whites, 4)",
+			"nth($c-greens, 3)",
+			"nth($c-whites, 5)",
+			"nth($c-blues, 3)",
+			"nth($c-blacks, 3)",
+			"nth($c-blacks, 4)",
+			"nth($c-blues, 2)",
+			"nth($c-whites, 2)",
+			"nth($c-whites, 1)",
+			"nth($c-whites, 4)",
+			"$c-white",
+			"nth($c-yellows, 3)",
+			"nth($c-blacks, 1)",
+			"$c-white",
+			"nth($c-blacks, 4)",
+			"nth($c-reds, 3)",
+			"nth($c-blacks, 1)",
+			"nth($c-yellows, 3)",
+			"nth($c-reds, 3)",
+			"nth($c-blues, 3)",
+			"$c-white",
+			"nth($c-blues, 4)",
+			"nth($c-whites, 5)",
+			"nth($c-blacks, 5)",
+			"nth($c-whites, 5)",
+			"nth($c-whites, 2)",
+			"nth($c-blacks, 1)",
+			"nth($c-whites, 3)",
+			"nth($c-blacks, 5)",
+			"nth($c-whites, 3)",
+			"nth($c-blacks, 3)",
+			"$c-white",
+			"nth($c-greens, 3)",
+			"nth($c-whites, 1)",
+			"nth($c-yellows, 1)",
+			"nth($c-yellows, 3)",
+			"nth($c-yellows, 4)",
+			"nth($c-whites, 2)",
+			"$c-yellow",
+			"nth($c-reds, 2)",
+			"nth($c-reds, 3)",
+			"nth($c-reds, 5)",
+			"nth($c-greens, 2)",
+			"nth($c-greens, 3)",
+			"nth($c-greens, 5)",
+			"nth($c-whites, 2)",
+			"nth($c-blacks, 3)",
+			"nth($c-whites, 4)",
+			"nth($c-blacks, 3)",
+			"nth($c-blacks, 5)",
+			"nth($c-blues, 3)",
+			"nth($c-blues, 4)",
+			"nth($c-blues, 5)",
+			"content: '⌃';",
+			"content: 'v'",
+			"'§'",
+			" ",
+			"modalDaterange",
+			"modalExcel",
+			"modalShare",
+			"modalLegend",
+			"modalRelease",
+			"cacheAllTemplates",
+			"pageViewItem",
+			"businesscontactListItem",
+			"verticalContactItem",
+			"contactListItem",
+			"pageViewItem",
+			"modalCalendar",
+			"",
+			"ProspectEye = ProspectEye || {}; ProspectEye.Components = ProspectEye.Components || {};",
+			"ProspectEye = ProspectEye || {}; ProspectEye.Controllers = ProspectEye.Controllers || {};",
+			"ProspectEye = ProspectEye || {}; ProspectEye.Services = ProspectEye.Services || {};",
+			"js-shareSend",
+			"AppHeader-logo",
+			"select_text",
+			"js-modalOverlay",
+			"parseUrl",
+			"PEVL.loadingSpinner",
+			"PEVL.scroller",
+			"font-family: 'Lato', sans-serif !important; font-weight: 300;",
+			"font-family: 'Lato', sans-serif; font-weight: 300;",
+			"font-family: 'Lato', sans-serif; font-weight: 700;",
+			"font-family: 'LatoBold';",
+			"on('visitlist/row/click'",
+			"{{{randomLoadingMessage 0}}}",
+			"/public/",
+			"ProspectEye.Components",
+			"ProspectEye.Services",
+			"visitlist/",
+			"PEVL.loadingSpinner",
+			"PEVL.visitlist",
+			"PEVL.state",
+			"PEVL.debugPressed",
+			"PEVL.TYPES",
+			"ProspectEye.components.visitList.replaceIcon",
+			"PEVL.menuBadge",
+			"PEVL.newVisitsCache",
+			"PEVL.filters",
+			"PEVL.users",
+			"PEVL",
+			"throw",
+			"background-color: #b10dc9;\n\n    &:before {\n      @extend .pe-icon-list-big:before;\n      font-size: 8px;\n    }",
+			"ProspectEye",
+			"});\n",
+			"_pe.templates",
+			"_pe.Templates",
+			"_peTemplates",
+			") ",
+			"\n	",
+			"*/\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								42
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								859,
+								859
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1443,
+								1443
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/player.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/HPE/Sites/hmps/griffinsFootball/www/templates/team.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 386.0
+	},
+	"output.find_results":
+	{
+		"height": 116.0
+	},
+	"output.git-checkout":
+	{
+		"height": 118.0
+	},
+	"output.git-commit":
+	{
+		"height": 118.0
+	},
+	"output.git-push":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 320.0
+	},
+	"project": "griffinsFootball.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home.htm",
+				"www/templates/home.html"
+			],
+			[
+				"player.",
+				"www/templates/player.html"
+			],
+			[
+				"menu",
+				"www/templates/menu.html"
+			],
+			[
+				"app",
+				"www/js/app.js"
+			],
+			[
+				"app.",
+				"www/js/app.js"
+			],
+			[
+				"team",
+				"www/templates/team.html"
+			],
+			[
+				"index.html",
+				"www/index.html"
+			],
+			[
+				"schedu",
+				"www/templates/schedule.html"
+			],
+			[
+				"home.html",
+				"www/templates/home.html"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"browse",
+				"www/templates/browse.html"
+			],
+			[
+				"jshint",
+				".jshintrc"
+			],
+			[
+				"timeline",
+				"modules/timeline/js/timeline.js"
+			],
+			[
+				"bundle.js",
+				"examples/timeline/bundle.js"
+			],
+			[
+				"timeline.js",
+				"modules/timeline/js/timeline.js"
+			],
+			[
+				"package.json",
+				"modules/timeline/package.json"
+			],
+			[
+				"bundle",
+				"examples/timeline/bundle.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"tooltip",
+				"modules/tooltip/stylesheets/tooltip.scss"
+			],
+			[
+				"_function",
+				"stylesheets/tools/_functions.scss"
+			],
+			[
+				"_mixin",
+				"stylesheets/tools/_mixins.scss"
+			],
+			[
+				"_vari",
+				"stylesheets/shared/_variables.scss"
+			],
+			[
+				"timelin",
+				"modules/timeline/stylesheets/timeline.scss"
+			],
+			[
+				"timeline.scss",
+				"modules/timeline/stylesheets/timeline.scss"
+			],
+			[
+				"timelineindex",
+				"examples/timeline/index.html"
+			],
+			[
+				"server",
+				"gulp/server.js"
+			],
+			[
+				"timelin.ejs",
+				"modules/timeline/js/timeline.js"
+			],
+			[
+				"bower.",
+				"bower.json"
+			],
+			[
+				"watch",
+				"gulp/watch.js"
+			],
+			[
+				"server.",
+				"gulp/server.js"
+			],
+			[
+				"timeindex.",
+				"examples/timeline/index.html"
+			],
+			[
+				"karma",
+				"tests/karma-unit.conf.js"
+			],
+			[
+				"helpers",
+				"tests/lib/helpers.js"
+			],
+			[
+				"test",
+				"gulp/test.js"
+			],
+			[
+				"serve",
+				"gulp/server.js"
+			],
+			[
+				"timelinde",
+				"examples/timeline/index.html"
+			],
+			[
+				"timeline.css",
+				"examples/timeline/stylesheets/timeline.css"
+			],
+			[
+				"timelineinde",
+				"examples/timeline/index.html"
+			],
+			[
+				"klist",
+				"modules/klister/klister.js"
+			],
+			[
+				"klister",
+				"modules/klister/klister.js"
+			],
+			[
+				"klister.spec",
+				"tests/unit/klister.spec.js"
+			],
+			[
+				"script",
+				"gulp/scripts.js"
+			],
+			[
+				"dropdown",
+				"modules/dropdown/dropdown.js"
+			],
+			[
+				"test.js",
+				"gulp/test.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"styles.sc",
+				"stylesheets/shared/_variables.scss"
+			],
+			[
+				"cart",
+				"modules/cartero/cartero.js"
+			],
+			[
+				"carer",
+				"modules/cartero/cartero.js"
+			],
+			[
+				"carter",
+				"modules/cartero/cartero.js"
+			],
+			[
+				"jscs",
+				".jscs.json"
+			],
+			[
+				"scripts",
+				"gulp/scripts.js"
+			],
+			[
+				"filter-se",
+				"modules/filter-select/filter-select.js"
+			],
+			[
+				"polyfills",
+				"modules/polyfills/polyfills.js"
+			],
+			[
+				"cartero",
+				"modules/cartero/cartero.js"
+			],
+			[
+				"timeline.html",
+				"examples/timeline/index.html"
+			],
+			[
+				"sidebar.",
+				"public/scripts/modules/sidebar/sidebar.directive.js"
+			],
+			[
+				"filter.mo",
+				"public/scripts/pages/filters/filters.module.js"
+			],
+			[
+				"mixins",
+				"public/styles/tools/_mixins.scss"
+			],
+			[
+				"apphea",
+				"public/styles/molecules/_AppHeader.scss"
+			],
+			[
+				"_sideba",
+				"public/styles/molecules/_Sidebar.scss"
+			],
+			[
+				"_sidebar",
+				"public/styles/molecules/_Sidebar.scss"
+			],
+			[
+				"appheader",
+				"public/styles/molecules/_AppHeader.scss"
+			],
+			[
+				"appcont",
+				"public/styles/molecules/_AppContainer.scss"
+			],
+			[
+				"app.temp",
+				"public/scripts/app.template.html"
+			],
+			[
+				"dashboard.tem",
+				"public/scripts/pages/dashboard/dashboard.template.html"
+			],
+			[
+				"_list",
+				"public/styles/atoms/_lists.scss"
+			],
+			[
+				"styles.scss",
+				"public/styles/styles.scss"
+			],
+			[
+				"filter.temp",
+				"public/scripts/pages/filters/filters.template.html"
+			],
+			[
+				"bower.jon",
+				"prospecteye/bower.json"
+			],
+			[
+				"htaccess",
+				"prospecteye/.htaccess"
+			],
+			[
+				"_reset",
+				"public/styles/tools/_reset.scss"
+			],
+			[
+				"translate",
+				"public/scripts/shared/services/translate.factory.js"
+			],
+			[
+				"app.mod",
+				"public/scripts/app.module.js"
+			],
+			[
+				"app.module",
+				"public/scripts/app.module.js"
+			],
+			[
+				"filtermo",
+				"public/scripts/pages/filters/filters.module.js"
+			],
+			[
+				"hedermenu",
+				"public/scripts/modules/header/partials/header.menu.partial.html"
+			],
+			[
+				"_lists",
+				"public/styles/atoms/_lists.scss"
+			],
+			[
+				"styles.scs",
+				"public/styles/styles.scss"
+			],
+			[
+				"_taglist",
+				"public/styles/molecules/_TagList.scss"
+			],
+			[
+				"_dropd",
+				"public/styles/molecules/_DropDown.scss"
+			],
+			[
+				"app.mo",
+				"public/scripts/app.module.js"
+			],
+			[
+				"factory",
+				"public/scripts/modules/auth/auth.factory.js"
+			],
+			[
+				"direct",
+				"public/scripts/modules/dropdown/dropdown.directive.js"
+			],
+			[
+				"dashb",
+				"public/scripts/pages/dashboard/dashboard.controller.js"
+			],
+			[
+				"dashboarmo",
+				"public/scripts/pages/dashboard/dashboard.module.js"
+			],
+			[
+				"dashboard.mo",
+				"public/scripts/pages/dashboard/dashboard.module.js"
+			],
+			[
+				"filter.tem",
+				"public/scripts/pages/filters/filters.template.html"
+			],
+			[
+				"visitlist.dire",
+				"public/scripts/modules/visitlist/visitlist.directive.js"
+			],
+			[
+				"handlebars",
+				"public/scripts/visitlist/utilities/handlebarshelpers.js"
+			],
+			[
+				"modale",
+				"public/templates/partials/modalExcel.hbs"
+			],
+			[
+				"translat",
+				"public/scripts/visitlist/services/translation.js"
+			],
+			[
+				"list.js",
+				"public/scripts/visitlist/components/visitlist/list.js"
+			],
+			[
+				"visitlist.js",
+				"public/scripts/visitlist/app/visitlist.js"
+			],
+			[
+				"visitlisttem",
+				"public/scripts/modules/visitlist/visitlist.template.html"
+			],
+			[
+				"visitlist.cont",
+				"public/scripts/modules/visitlist/visitlist.controller.js"
+			],
+			[
+				"visits.temp",
+				"public/scripts/pages/visits/visits.template.html"
+			],
+			[
+				"modal.di",
+				"public/scripts/modules/modal/modal.directive.js"
+			],
+			[
+				"visitlist.mod",
+				"public/scripts/modules/visitlist/visitlist.module.js"
+			],
+			[
+				"dashboard.",
+				"public/scripts/pages/dashboard/dashboard.controller.js"
+			],
+			[
+				"visitlistcontr",
+				"public/scripts/modules/visitlist/visitlist.controller.js"
+			],
+			[
+				"direc",
+				"public/scripts/modules/dropdown/dropdown.directive.js"
+			],
+			[
+				"visits.mod",
+				"public/scripts/pages/visits/visits.module.js"
+			],
+			[
+				"visits.tem",
+				"public/scripts/pages/visits/visits.template.html"
+			],
+			[
+				"state",
+				"public/scripts/visitlist/services/state.js"
+			],
+			[
+				"packag",
+				"prospecteye/package.json"
+			],
+			[
+				"dashboard.con",
+				"public/scripts/pages/dashboard/dashboard.controller.js"
+			],
+			[
+				"visitlist",
+				"public/scripts/visitlist/components/visitlist/row.js"
+			],
+			[
+				"styles.css",
+				"public/styles/styles.css"
+			],
+			[
+				"styles",
+				"gulp/styles.js"
+			],
+			[
+				"bower",
+				"prospecteye/bower.json"
+			],
+			[
+				"app.contr",
+				"public/scripts/app.controller.js"
+			],
+			[
+				"ng-bundl",
+				"public/scripts/ng-bundle.js"
+			],
+			[
+				"widget.direc",
+				"public/scripts/modules/widget/widget.directive.js"
+			],
+			[
+				"tools",
+				"public/scripts/shared/services/tools.factory.js"
+			],
+			[
+				"restpar",
+				"public/scripts/shared/services/restParser.factory.js"
+			],
+			[
+				"localst",
+				"public/scripts/shared/services/localstorage.factory.js"
+			],
+			[
+				"timeago",
+				"public/scripts/shared/filters/timeAgo.filter.js"
+			],
+			[
+				"separa",
+				"public/scripts/shared/filters/separate.filter.js"
+			],
+			[
+				"replace",
+				"public/scripts/shared/filters/replaceSpaces.filter.js"
+			],
+			[
+				"modul",
+				"public/scripts/shared/filters/modularize.filter.js"
+			],
+			[
+				"linkedin",
+				"public/scripts/shared/filters/linkedin.filter.js"
+			],
+			[
+				"init",
+				"public/scripts/shared/filters/initials.filter.js"
+			],
+			[
+				"group",
+				"public/scripts/shared/filters/group.filter.js"
+			],
+			[
+				"fillemp",
+				"public/scripts/shared/filters/fillEmpty.filter.js"
+			],
+			[
+				"camel",
+				"public/scripts/shared/filters/camelcase.filter.js"
+			],
+			[
+				"errsrc",
+				"public/scripts/shared/directives/errSrc.directive.js"
+			],
+			[
+				"visits.contr",
+				"public/scripts/pages/visits/visits.controller.js"
+			],
+			[
+				"widget.sett",
+				"public/scripts/modules/widget/setting/widget.setting.visit.directive.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"jeo",
+				"~/Sites/_SUBLIME/jeopardy.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"widgetFactory",
+				"widgetFactory"
+			],
+			[
+				"generateSite",
+				"generateSiteCode"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
